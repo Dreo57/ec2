@@ -8,5 +8,5 @@ variable "aws_instance" {
 }
 
 variable "sg_id" {
-  
+    default = "sg-0b1dee1eabdf8e0b9"  
 }
